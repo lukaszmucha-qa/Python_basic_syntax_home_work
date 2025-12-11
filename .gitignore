@@ -1,0 +1,11 @@
+.venv
+.idea
+models
+data
+__pycache__
+*.pyc
+.env
+.DS_Store
+logs
+output
+
